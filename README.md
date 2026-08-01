@@ -1,0 +1,2 @@
+# ProteoHunter-A-PoseBusters-Validated-Docking-Pipeline-Outperforms-Boltz2-
+ProteoHunter is a rule-based docking pipeline that predicts protein-ligand binding with 93% accuracy on 30 diverse targets, outperforming Boltz-2 (77%, p=0.0078). It integrates geometric pocket detection, dual-engine docking (Vina+GNINA), volume-ratio validation, and PoseBusters checks. Free, open-source, and runs in 1-2 minutes per complex.
